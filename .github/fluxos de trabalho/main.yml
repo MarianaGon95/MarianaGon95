@@ -1,4 +1,12 @@
-@@ -10,14 +10,6 @@ jobs:
+
+@@ -1,23 +1,15 @@
+nome : Gerar Dados
+em :
+  cronograma : # executar a cada 12 horas
+    - cron : " * * / 12 * * * "
+  workflow_dispatch :
+empregos :
+  construir :
     nome : Trabalhos para atualizar dados
     roda em : ubuntu-mais recente
     passos :

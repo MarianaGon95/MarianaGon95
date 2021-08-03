@@ -2,7 +2,6 @@
 
 
 - 🌱 Estudando  Javascript
-- São Paulo
 
 ##
 
